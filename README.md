@@ -7,7 +7,7 @@ A lightweight macOS menu bar utility that tracks your schedule and updates its i
 ## 🚀 Download
 Click the link below to download the latest version for macOS:
 
-### [📥 Download Cal3x (v1.0.1)](https://drive.google.com/uc?export=download&id=1i2kLayZCRuL9Oi2tNoQGVikhOtzIiglm)
+### [📥 Download Cal3x (v1.2.0)](https://drive.google.com/uc?export=download&id=1i2kLayZCRuL9Oi2tNoQGVikhOtzIiglm)
 
 *Note: After downloading, right-click the app and select 'Open' to bypass the macOS security warning.*
 
