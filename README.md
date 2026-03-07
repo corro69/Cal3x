@@ -20,6 +20,6 @@ Click the link below to download the latest version for macOS:
 
 ## 🛠️ Installation
 1. Download the `dmg` file above.
-2. Extract the file to the `/Applications` folder.
+2. Drag the file to the `/Applications` folder.
 3. Launch **Cal3x**.
 4. Log in with your Google account.
