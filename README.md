@@ -1,7 +1,7 @@
 ![Version](https://img.shields.io/badge/version-1.3.2-blue)
 # 📅 Cal3x | Your Calendar at a Glance
 
-A lightweight macOS menu bar utility that tracks your schedule and updates its icon based on your real‑time status.
+A lightweight macOS menu bar utility for Apple Silcon Macs that tracks your schedule and updates its icon based on your real‑time status.
 
 ---
 
